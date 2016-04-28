@@ -1,7 +1,6 @@
 # require './directory1.rb'
 module Options
 
-
 def self.menu
   puts "Welcome to Political Directory"
   puts "Press 'Enter' to continue"
